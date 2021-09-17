@@ -1,0 +1,8 @@
+.firstTodo {
+  display: flex;
+  justify-content: center;
+  margin-top: 25%;
+  font-size: 20px;
+  font-weight: bold;
+  color: #a79c9c;
+}
